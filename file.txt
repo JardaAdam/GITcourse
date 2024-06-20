@@ -1,2 +1,3 @@
 change in file pomoci VIMU.
 dalsi zmena pomocí Vimu a použití git resetu
+ted budu pouzivat [git checkout]
