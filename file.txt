@@ -1,1 +1,2 @@
-change in file pomoci VIMU. 
+change in file pomoci VIMU.
+dalsi zmena pomocí Vimu a použití git resetu
